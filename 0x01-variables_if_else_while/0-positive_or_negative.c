@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /**
- * main - Determine if random number is positive , zero or negative.
+ * main - Determine if a random number is positive, negative or zero.
  *
  * Return : 0 on success
  */
