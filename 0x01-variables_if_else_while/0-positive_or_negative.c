@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /**
- * main - Entry point
+ * main - Determine if the random number generated is positive , zero or negative
  *
  * Return : Always (0) success
  */
