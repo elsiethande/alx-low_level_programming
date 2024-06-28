@@ -6,7 +6,6 @@
  *
  * Return :  alphabet in lowercase
  */
-
 int main(void)
 {
 	int lowerCase = 'a';
@@ -16,9 +15,6 @@ int main(void)
 		putchar(lowerCase);
 		lowerCase += 1;
 	}
-	
 	putchar ('\n');
-
 	return (0);
-
 }
